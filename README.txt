@@ -1,3 +1,9 @@
+README
+name: Tiffani Lau
+Date: 1/29/2014
+Includes information about the files and events of the repository ForkMeForkYou.
+
+
 Date: Mon Jan 20 22:37:2014 -0500
 Ming Chow Removed everything from 2013
 
